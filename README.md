@@ -19,3 +19,4 @@
 
 ## Refactor TODOS:
 - Refactor user association integration test in post_spec
+- https://github.com/thoughtbot/factory_bot/blob/v4.9.0/UPGRADE_FROM_FACTORY_GIRL.md
