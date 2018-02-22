@@ -17,9 +17,10 @@
 ## UI:
 - x Bootstrap -> formatting
 - Icons from Font awesome
-- Update the styles for the forms
+- x Update the styles for the forms
 
 ## Refactor TODOS:
 - Refactor user association integration test in post_spec
 - https://github.com/thoughtbot/factory_bot/blob/v4.9.0/UPGRADE_FROM_FACTORY_GIRL.md
 - Admin Dashboard in nav partial
+- BDD: behavior driven development
