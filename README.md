@@ -21,6 +21,7 @@
 
 ## Refactor TODOS:
 - Refactor user association integration test in post_spec
-- https://github.com/thoughtbot/factory_bot/blob/v4.9.0/UPGRADE_FROM_FACTORY_bot.md
-- Admin Dashboard in nav partial
-- BDD: behavior driven development
+- x https://github.com/thoughtbot/factory_bot/blob/v4.9.0/UPGRADE_FROM_FACTORY_bot.md
+- x Admin Dashboard in nav partial
+- x BDD: behavior driven development
+- Fix post_spec.rb:76 to use factories
