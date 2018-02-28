@@ -25,3 +25,4 @@
 - x Admin Dashboard in nav partial
 - x BDD: behavior driven development
 - Fix post_spec.rb:76 to use factories
+- Flash message
