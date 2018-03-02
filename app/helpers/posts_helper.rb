@@ -4,15 +4,15 @@ module PostsHelper
   end
 
   private
-
+    
     def status_span_generator status
       case status
-        when 'approved'
-          content_tag(:span, status, class: 'label label_success')
-        when 'submitted'
-          content_tag(:span, status, class: 'label label_primary')
-        when 'rejected'
-        content_tag(:span, status, class: 'label label_danger') 
+      when 'submitted'
+        content_tag(:span, status.titleize, class: 'label label-primary')
+      when 'approved'
+        content_tag(:span, status.titleize, class: 'label label-success')
+      when 'rejected'
+        content_tag(:span, status.titleize, class: 'label label-danger')
       end
     end
 end
