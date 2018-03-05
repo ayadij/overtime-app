@@ -5,5 +5,3 @@ namespace :notification  do
   end
 
 end
-
-
