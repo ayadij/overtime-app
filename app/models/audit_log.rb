@@ -1,9 +1,9 @@
 class AuditLog < ApplicationRecord
-  validates_presence_of :user_id, :status, :start_date
-  belongs_to :user
-  after_initialize :set_defaults
-  enum status: { pending: 0, confirmed: 1 }
 
+  enum status: { pending: 0, confirmed: 1 }
+  belongs_to :user
+  validates_presence_of :user_id, :status, :start_date
+  after_initialize :set_defaults
 
   private
 
