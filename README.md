@@ -17,8 +17,8 @@
 - x Needs to be documented if employee did not log overtime
 
 ## TODO
-- Update the end date when an audit log is confirmed.
-- Update audit log status when an overtime is rejected.
+- x Update the end date when an audit log is confirmed.
+- x Update audit log status when an overtime is rejected.
 - x Add a home icon for the homepage
 - Update buttons on employee homepage so they show on mobile.
 - Add the full date range in each button.
