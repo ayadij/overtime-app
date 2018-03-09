@@ -24,7 +24,7 @@
 - Add the full date range in each button.
 - Update button sort order on employee homepage
 - Remove "entries" and "Request overtime" buttons for managers.
-- Fix a bug in admin dashboard. I think this should be more a configuration setting we need to update.
+- Fix a bug in admin dashboard. 
 - Implement honeybadger for error reporting
 - Implement new relic for keeping the site alive
 
