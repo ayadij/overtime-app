@@ -67,3 +67,5 @@ gem 'dotenv-rails', :groups => [:development, :tests]
 
 gem 'kaminari', '~> 1.1', '>= 1.1.1'
 gem 'rails_12factor'
+gem 'newrelic_rpm'
+

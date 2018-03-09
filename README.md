@@ -21,11 +21,11 @@
 - x Update audit log status when an overtime is rejected.
 - x Add a home icon for the homepage
 - x Update buttons on employee homepage so they show on mobile.
-- Add the full date range in each button.
+- x Add the full date range in each button.
 - x Update button sort order on employee homepage
-- Remove "entries" and "Request overtime" buttons for managers.
+- x Remove "entries" and "Request overtime" buttons for managers.
 - x Fix a bug in admin dashboard. 
-- Implement honeybadger for error reporting
+- x Implement honeybadger for error reporting (paid)
 - Implement new relic for keeping the site alive
 
 https://wlp-ayadij-overtime.herokuapp.com/users/sign_in
