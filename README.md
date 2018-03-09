@@ -20,7 +20,7 @@
 - x Update the end date when an audit log is confirmed.
 - x Update audit log status when an overtime is rejected.
 - x Add a home icon for the homepage
-- Update buttons on employee homepage so they show on mobile.
+- x Update buttons on employee homepage so they show on mobile.
 - Add the full date range in each button.
 - Update button sort order on employee homepage
 - Remove "entries" and "Request overtime" buttons for managers.
