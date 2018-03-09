@@ -19,7 +19,7 @@
 ## TODO
 - Update the end date when an audit log is confirmed.
 - Update audit log status when an overtime is rejected.
-- Add a home icon for the homepage
+- x Add a home icon for the homepage
 - Update buttons on employee homepage so they show on mobile.
 - Add the full date range in each button.
 - Update button sort order on employee homepage
