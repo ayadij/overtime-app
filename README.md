@@ -22,9 +22,9 @@
 - x Add a home icon for the homepage
 - x Update buttons on employee homepage so they show on mobile.
 - Add the full date range in each button.
-- Update button sort order on employee homepage
+- x Update button sort order on employee homepage
 - Remove "entries" and "Request overtime" buttons for managers.
-- Fix a bug in admin dashboard. 
+- x Fix a bug in admin dashboard. 
 - Implement honeybadger for error reporting
 - Implement new relic for keeping the site alive
 
