@@ -69,3 +69,5 @@ gem 'kaminari', '~> 1.1', '>= 1.1.1'
 gem 'rails_12factor'
 gem 'newrelic_rpm'
 
+gem 'rails-html-sanitizer', '~> 1.0.4'
+gem 'loofah', '~> 2.2.1'
