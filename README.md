@@ -24,3 +24,6 @@ Some of the libraries that I'll be using for this application are:
 - Dotenv - for protecting credentials from outside access.
 - RSpec - for testing
 - Capybara - for integration testing
+
+
+$ cd Documents/code/rails-app-2/overtime
